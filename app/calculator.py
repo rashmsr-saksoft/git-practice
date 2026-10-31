@@ -6,6 +6,11 @@ def subtract(a, b):
     return a - b
 
 
+def multiply(a, b):
+    return a * b
+
+
 print(add(10, 20))
 print(subtract(20, 5))
 print(add(5, 5))
+print(multiply(5, 4))
