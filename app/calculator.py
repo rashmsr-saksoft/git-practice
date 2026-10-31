@@ -8,3 +8,4 @@ def subtract(a, b):
 
 print(add(10, 20))
 print(subtract(20, 5))
+print(add(5, 5))
